@@ -14,7 +14,7 @@
 <img src="./Public/images/Punto-2.png" alt="punto 2">
 
 <h2>punto 3: Diseño con cSS </h2>
-<img src="./Public/images/Punto-3.png" alt="punto 3">
+<img src="./Public/images/punto-3.png" alt="punto 3">
 
 <h2>punto 4: Titulos</h2>
 <img src="./Public/images/Punto-4.png" alt="punto 4">
