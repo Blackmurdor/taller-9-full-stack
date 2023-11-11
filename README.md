@@ -5,16 +5,18 @@
 <p>Profesor: Cristian patiño</p>
 
 <h2>Link de la pagina web</h2>
-
+<a href="https://blackmurdor.github.io/taller-9-full-stack/">
+Link de pagina webgit co</a>
 
 <h2>punto 1: Link Figma</h2>
-<a href="https://www.figma.com/file/Fw8uwBM8X9GisgJXJLVsuW/Mateo-Zambrano?type=design&node-id=1706-2&mode=design&t=RDnmRX8vpoLPZnlR-4">Link de Figma</a>
+<a href="https://www.figma.com/file/Fw8uwBM8X9GisgJXJLVsuW/Mateo-Zambrano?type=design&node-id=1706-2&mode=design&t=RDnmRX8vpoLPZnlR-4">
+Link de Figma</a>
 
 <h2>punto 2: Diseño en HTML </h2>
 <img src="./Public/images/Punto-2.png" alt="punto 2">
 
 <h2>punto 3: Diseño con cSS </h2>
-<img src="./Public/images/punto-3.png" alt="punto 3">
+<img src="./Public/images/punto-3.png" alt="punto 3">git c
 
 <h2>punto 4: Titulos</h2>
 <img src="./Public/images/punto-4.png" alt="punto 4">
