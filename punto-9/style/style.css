@@ -4,7 +4,7 @@ table {
     border: black 1px dotted;  
 }
 th {
-    color: red;
+    color:gray;
 }
 td {
     border: rgb(8, 8, 8) 1px dotted;  
